@@ -42,5 +42,3 @@ multiply(5,2)
 
 ## Languages
 * English Intermediate B1
-* * Russian
-* * Belarussian
